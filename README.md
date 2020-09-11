@@ -1,5 +1,3 @@
-##个人介绍##
-
 |Github|[AllenWu](https://github.com/AlanWuu)|
 |-----|:----:|
 |兴趣爱好|羽毛球、HIFI设备、摄影|
